@@ -1,2 +1,0 @@
-# FilipaDental
-Project website
